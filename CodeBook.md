@@ -21,13 +21,13 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 mergeData.txt is a 10299 x 81 data in text file format.
 
 ### Variables
-. activities: The activity performed
-. subject: Subject ID
-tbodyacc-mean-x: Mean time for acceleration of body for X direction
-tbodyacc-mean-y: Mean time for acceleration of body for Y direction
-tbodyacc-mean-z: Mean time for acceleration of body for Z direction
-tbodyacc-std-x: Std-dev of time for acceleration of body for X direction
-tbodyacc-std-y: Std-dev of time for acceleration of body for Y direction
+* activities: The activity performed
+* subject: Subject ID
+* tbodyacc-mean-x: Mean time for acceleration of body for X direction
+* tbodyacc-mean-y: Mean time for acceleration of body for Y direction
+* tbodyacc-mean-z: Mean time for acceleration of body for Z direction
+* tbodyacc-std-x: Std-dev of time for acceleration of body for X direction
+* tbodyacc-std-y: Std-dev of time for acceleration of body for Y direction
 tbodyacc-std-z: Std-dev of time for acceleration of body for Z direction
 tgravityacc-mean-x: Mean time of acceleration of gravity for X direction
 tgravityacc-mean-y: Mean time of acceleration of gravity for Y direction
